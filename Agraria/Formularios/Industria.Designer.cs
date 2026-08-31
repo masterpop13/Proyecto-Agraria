@@ -84,21 +84,22 @@
             groupBox1.Controls.Add(cmbProducto);
             groupBox1.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             groupBox1.ForeColor = Color.White;
-            groupBox1.Location = new Point(5, 1);
-            groupBox1.Margin = new Padding(3, 2, 3, 2);
+            groupBox1.Location = new Point(7, 2);
+            groupBox1.Margin = new Padding(4, 3, 4, 3);
             groupBox1.Name = "groupBox1";
-            groupBox1.Padding = new Padding(3, 2, 3, 2);
-            groupBox1.Size = new Size(1875, 827);
+            groupBox1.Padding = new Padding(4, 3, 4, 3);
+            groupBox1.Size = new Size(2679, 1378);
             groupBox1.TabIndex = 3;
             groupBox1.TabStop = false;
             groupBox1.Text = "Elaboracion de Productos a Base de Producción Vegetal y Animal";
             // 
             // txtDetalle
             // 
-            txtDetalle.Location = new Point(502, 207);
+            txtDetalle.Location = new Point(717, 345);
+            txtDetalle.Margin = new Padding(4, 5, 4, 5);
             txtDetalle.MaxLength = 5;
             txtDetalle.Name = "txtDetalle";
-            txtDetalle.Size = new Size(111, 29);
+            txtDetalle.Size = new Size(157, 40);
             txtDetalle.TabIndex = 61;
             txtDetalle.KeyDown += CopiaryPegar_KeyDown;
             txtDetalle.KeyPress += SoloNumeros_KeyPress;
@@ -108,19 +109,20 @@
             panel2.BackColor = Color.Yellow;
             panel2.Controls.Add(dtgArticulosIndustria);
             panel2.ForeColor = Color.Black;
-            panel2.Location = new Point(595, 351);
+            panel2.Location = new Point(850, 585);
+            panel2.Margin = new Padding(4, 5, 4, 5);
             panel2.Name = "panel2";
-            panel2.Size = new Size(1267, 409);
+            panel2.Size = new Size(1810, 682);
             panel2.TabIndex = 60;
             // 
             // dtgArticulosIndustria
             // 
             dtgArticulosIndustria.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dtgArticulosIndustria.Location = new Point(0, 0);
-            dtgArticulosIndustria.Margin = new Padding(3, 2, 3, 2);
+            dtgArticulosIndustria.Margin = new Padding(4, 3, 4, 3);
             dtgArticulosIndustria.Name = "dtgArticulosIndustria";
             dtgArticulosIndustria.RowHeadersWidth = 51;
-            dtgArticulosIndustria.Size = new Size(1267, 409);
+            dtgArticulosIndustria.Size = new Size(1810, 682);
             dtgArticulosIndustria.TabIndex = 54;
             dtgArticulosIndustria.CellContentClick += dtgArticulosIndustria_CellContentClick;
             // 
@@ -129,19 +131,20 @@
             panel1.BackColor = Color.Yellow;
             panel1.Controls.Add(dtgInsumos);
             panel1.ForeColor = Color.Black;
-            panel1.Location = new Point(102, 350);
+            panel1.Location = new Point(146, 583);
+            panel1.Margin = new Padding(4, 5, 4, 5);
             panel1.Name = "panel1";
-            panel1.Size = new Size(487, 410);
+            panel1.Size = new Size(696, 683);
             panel1.TabIndex = 59;
             // 
             // dtgInsumos
             // 
             dtgInsumos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtgInsumos.Location = new Point(0, -1);
-            dtgInsumos.Margin = new Padding(3, 2, 3, 2);
+            dtgInsumos.Location = new Point(0, -2);
+            dtgInsumos.Margin = new Padding(4, 3, 4, 3);
             dtgInsumos.Name = "dtgInsumos";
             dtgInsumos.RowHeadersWidth = 51;
-            dtgInsumos.Size = new Size(488, 411);
+            dtgInsumos.Size = new Size(697, 685);
             dtgInsumos.TabIndex = 45;
             // 
             // btnGuardarIndustria
@@ -152,9 +155,10 @@
             btnGuardarIndustria.ForeColor = Color.Green;
             btnGuardarIndustria.Image = Properties.Resources.guardar_datos;
             btnGuardarIndustria.ImageAlign = ContentAlignment.MiddleLeft;
-            btnGuardarIndustria.Location = new Point(1654, 774);
+            btnGuardarIndustria.Location = new Point(2363, 1290);
+            btnGuardarIndustria.Margin = new Padding(4, 5, 4, 5);
             btnGuardarIndustria.Name = "btnGuardarIndustria";
-            btnGuardarIndustria.Size = new Size(192, 39);
+            btnGuardarIndustria.Size = new Size(274, 65);
             btnGuardarIndustria.TabIndex = 58;
             btnGuardarIndustria.Text = "Guardar";
             btnGuardarIndustria.UseVisualStyleBackColor = false;
@@ -168,9 +172,10 @@
             btnImprimir.ForeColor = Color.Green;
             btnImprimir.Image = Properties.Resources.imprimir;
             btnImprimir.ImageAlign = ContentAlignment.MiddleLeft;
-            btnImprimir.Location = new Point(1426, 774);
+            btnImprimir.Location = new Point(2037, 1290);
+            btnImprimir.Margin = new Padding(4, 5, 4, 5);
             btnImprimir.Name = "btnImprimir";
-            btnImprimir.Size = new Size(192, 39);
+            btnImprimir.Size = new Size(274, 65);
             btnImprimir.TabIndex = 57;
             btnImprimir.Text = "Imprimir";
             btnImprimir.UseVisualStyleBackColor = false;
@@ -184,9 +189,10 @@
             btnQuitar.ForeColor = Color.Green;
             btnQuitar.Image = Properties.Resources.cruz66;
             btnQuitar.ImageAlign = ContentAlignment.MiddleLeft;
-            btnQuitar.Location = new Point(384, 305);
+            btnQuitar.Location = new Point(549, 508);
+            btnQuitar.Margin = new Padding(4, 5, 4, 5);
             btnQuitar.Name = "btnQuitar";
-            btnQuitar.Size = new Size(192, 39);
+            btnQuitar.Size = new Size(274, 65);
             btnQuitar.TabIndex = 56;
             btnQuitar.Text = "Quitar";
             btnQuitar.UseVisualStyleBackColor = false;
@@ -200,9 +206,10 @@
             btnAgregar.ForeColor = Color.Green;
             btnAgregar.Image = Properties.Resources.salida;
             btnAgregar.ImageAlign = ContentAlignment.MiddleLeft;
-            btnAgregar.Location = new Point(174, 305);
+            btnAgregar.Location = new Point(249, 508);
+            btnAgregar.Margin = new Padding(4, 5, 4, 5);
             btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(192, 39);
+            btnAgregar.Size = new Size(274, 65);
             btnAgregar.TabIndex = 55;
             btnAgregar.Text = "Agregar";
             btnAgregar.UseVisualStyleBackColor = false;
@@ -210,20 +217,22 @@
             // 
             // txtCantidadInsumos
             // 
-            txtCantidadInsumos.Location = new Point(320, 254);
+            txtCantidadInsumos.Location = new Point(457, 423);
+            txtCantidadInsumos.Margin = new Padding(4, 5, 4, 5);
             txtCantidadInsumos.MaxLength = 5;
             txtCantidadInsumos.Name = "txtCantidadInsumos";
-            txtCantidadInsumos.Size = new Size(162, 29);
+            txtCantidadInsumos.Size = new Size(230, 40);
             txtCantidadInsumos.TabIndex = 53;
             txtCantidadInsumos.KeyDown += CopiaryPegar_KeyDown;
             txtCantidadInsumos.KeyPress += SoloNumeros_KeyPress;
             // 
             // txtCantidadProduccion
             // 
-            txtCantidadProduccion.Location = new Point(320, 111);
+            txtCantidadProduccion.Location = new Point(457, 185);
+            txtCantidadProduccion.Margin = new Padding(4, 5, 4, 5);
             txtCantidadProduccion.MaxLength = 4;
             txtCantidadProduccion.Name = "txtCantidadProduccion";
-            txtCantidadProduccion.Size = new Size(162, 29);
+            txtCantidadProduccion.Size = new Size(230, 40);
             txtCantidadProduccion.TabIndex = 52;
             txtCantidadProduccion.KeyDown += CopiaryPegar_KeyDown;
             txtCantidadProduccion.KeyPress += SoloNumeros_KeyPress;
@@ -233,18 +242,20 @@
             label3.AutoSize = true;
             label3.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(1329, 40);
+            label3.Location = new Point(1899, 67);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(85, 24);
+            label3.Size = new Size(129, 33);
             label3.TabIndex = 51;
             label3.Text = "Recetas";
             // 
             // txtRecetas
             // 
-            txtRecetas.Location = new Point(887, 73);
+            txtRecetas.Location = new Point(1267, 122);
+            txtRecetas.Margin = new Padding(4, 5, 4, 5);
             txtRecetas.Multiline = true;
             txtRecetas.Name = "txtRecetas";
-            txtRecetas.Size = new Size(959, 250);
+            txtRecetas.Size = new Size(1368, 414);
             txtRecetas.TabIndex = 50;
             txtRecetas.KeyDown += CopiaryPegar_KeyDown;
             txtRecetas.KeyPress += TextoyNumero_KeyPress;
@@ -254,9 +265,10 @@
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(102, 254);
+            label2.Location = new Point(146, 423);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(212, 24);
+            label2.Size = new Size(318, 33);
             label2.TabIndex = 49;
             label2.Text = "Cantidad de Insumos:";
             // 
@@ -265,10 +277,10 @@
             cmbInsumos.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbInsumos.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             cmbInsumos.FormattingEnabled = true;
-            cmbInsumos.Location = new Point(320, 204);
-            cmbInsumos.Margin = new Padding(3, 2, 3, 2);
+            cmbInsumos.Location = new Point(457, 340);
+            cmbInsumos.Margin = new Padding(4, 3, 4, 3);
             cmbInsumos.Name = "cmbInsumos";
-            cmbInsumos.Size = new Size(162, 32);
+            cmbInsumos.Size = new Size(230, 41);
             cmbInsumos.TabIndex = 43;
             cmbInsumos.SelectedIndexChanged += cmbInsumos_SelectedIndexChanged;
             // 
@@ -277,9 +289,10 @@
             label7.AutoSize = true;
             label7.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             label7.ForeColor = Color.White;
-            label7.Location = new Point(220, 207);
+            label7.Location = new Point(314, 345);
+            label7.Margin = new Padding(4, 0, 4, 0);
             label7.Name = "label7";
-            label7.Size = new Size(94, 24);
+            label7.Size = new Size(142, 33);
             label7.TabIndex = 42;
             label7.Text = "Insumos:";
             // 
@@ -288,19 +301,20 @@
             label6.AutoSize = true;
             label6.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             label6.ForeColor = Color.White;
-            label6.Location = new Point(97, 160);
+            label6.Location = new Point(139, 267);
+            label6.Margin = new Padding(4, 0, 4, 0);
             label6.Name = "label6";
-            label6.Size = new Size(217, 24);
+            label6.Size = new Size(315, 33);
             label6.TabIndex = 41;
             label6.Text = "Fecha de produccion:";
             // 
             // dtpFecha
             // 
             dtpFecha.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
-            dtpFecha.Location = new Point(320, 159);
-            dtpFecha.Margin = new Padding(3, 2, 3, 2);
+            dtpFecha.Location = new Point(457, 265);
+            dtpFecha.Margin = new Padding(4, 3, 4, 3);
             dtpFecha.Name = "dtpFecha";
-            dtpFecha.Size = new Size(401, 29);
+            dtpFecha.Size = new Size(571, 40);
             dtpFecha.TabIndex = 40;
             dtpFecha.Value = new DateTime(2025, 9, 16, 20, 46, 43, 0);
             // 
@@ -309,9 +323,10 @@
             label4.AutoSize = true;
             label4.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             label4.ForeColor = Color.White;
-            label4.Location = new Point(74, 111);
+            label4.Location = new Point(106, 185);
+            label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
-            label4.Size = new Size(240, 24);
+            label4.Size = new Size(353, 33);
             label4.TabIndex = 2;
             label4.Text = "Cantidad en produccion:";
             // 
@@ -320,9 +335,10 @@
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(113, 69);
+            label1.Location = new Point(161, 115);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(201, 24);
+            label1.Size = new Size(297, 33);
             label1.TabIndex = 0;
             label1.Text = "Producto a producir:";
             // 
@@ -331,10 +347,10 @@
             cmbProducto.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbProducto.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold);
             cmbProducto.FormattingEnabled = true;
-            cmbProducto.Location = new Point(320, 66);
-            cmbProducto.Margin = new Padding(3, 2, 3, 2);
+            cmbProducto.Location = new Point(457, 110);
+            cmbProducto.Margin = new Padding(4, 3, 4, 3);
             cmbProducto.Name = "cmbProducto";
-            cmbProducto.Size = new Size(162, 32);
+            cmbProducto.Size = new Size(230, 41);
             cmbProducto.TabIndex = 1;
             cmbProducto.SelectedIndexChanged += cmbProducto_SelectedIndexChanged;
             // 
@@ -344,12 +360,13 @@
             // 
             // Industria
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(141, 181, 146);
-            ClientSize = new Size(1884, 861);
+            ClientSize = new Size(2586, 1435);
             Controls.Add(groupBox1);
             FormBorderStyle = FormBorderStyle.None;
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Industria";
             Text = "Industria";
             Load += Industria_Load;

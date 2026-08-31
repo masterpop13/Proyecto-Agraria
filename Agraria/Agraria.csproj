@@ -1,0 +1,130 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Description>Este programa esta diseñado para facilitar la administración de las escuelas agrarias en diferentes tipos de entornos , Administrativos , Vegetales , Animales , Personal y Pañol .</Description>
+    <Copyright>Todos los Derechos reservados para el Instituto I.S.F.T N°93  @2025</Copyright>
+    <Company>Soria Isaias , Ceballos Manuela , Nieva Julieta ,  Fleitas Noelia , Murua Marcos</Company>
+    <Product>Agraria</Product>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageIcon>icono_granja.ico</PackageIcon>
+    <ApplicationIcon>icono_granja.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Recursos\AlimentosProveedor.html" />
+    <None Remove="Recursos\Articulos.html" />
+    <None Remove="Recursos\ArticulosPañol.html" />
+    <None Remove="Recursos\Carne.html" />
+    <None Remove="Recursos\Colmenas.html" />
+    <None Remove="Recursos\Engorde.html" />
+    <None Remove="Recursos\Factura.html" />
+    <None Remove="Recursos\Huevos.html" />
+    <None Remove="Recursos\industria.html" />
+    <None Remove="Recursos\NacimientoAnimal.html" />
+    <None Remove="Recursos\NacimientoCarne.html" />
+    <None Remove="Recursos\PlantillaVegetal.html" />
+    <None Remove="Recursos\Proveedores.html" />
+    <None Remove="Recursos\RegistroLeche.html" />
+    <None Remove="Recursos\Vegetales.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="icono_granja.ico" />
+    <Content Include="Recursos\AlimentosProveedor.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Articulos.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\ArticulosPañol.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Carne.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Colmenas.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Engorde.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Factura.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Huevos.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\industria.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\NacimientoAnimal.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\NacimientoCarne.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\PlantillaVegetal.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Proveedores.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\RegistroLeche.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Recursos\Vegetales.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\icono_granja.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13.4" />
+    <PackageReference Include="itextsharp.xmlworker" Version="5.5.13.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agraria.Datos\Agraria.Datos.csproj" />
+    <ProjectReference Include="..\Agraria.Negocio\Agraria.Negocio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

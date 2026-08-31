@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Reporte Vegetal</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid black;
+            padding: 5px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Reporte de Cosecha de Acelga - @FECHA</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Fecha Cosecha</th>
+                <th>Cant. Plantines</th>
+                <th>Cant. Atados</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @FILAS
+        </tbody>
+    </table>
+</body>
+</html>

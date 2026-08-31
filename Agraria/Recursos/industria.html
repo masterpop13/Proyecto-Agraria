@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Reporte de Producción Industrial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 50px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .fecha {
+            text-align: right;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="fecha">Fecha: @FECHA</div>
+    <h2>Reporte de Producción Industrial - @NOMBREPAGINA</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID Registro</th>
+                <th>Producto</th>
+                <th>Cantidad Producida</th>
+                <th>Fecha de Producción</th>
+                <th>Insumo</th>
+                <th>Cantidad de Insumos</th>
+            </tr>
+        </thead>
+        <tbody>
+            @FILAS
+        </tbody>
+    </table>
+</body>
+</html>
+f

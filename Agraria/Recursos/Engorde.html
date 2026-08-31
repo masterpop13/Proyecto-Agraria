@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Reporte Engorde</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 50px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Reporte Engorde - @NOMBREPAGINA - @FECHA</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Id Engorde</th>
+                <th>Box</th>
+                <th>Nombre</th>
+                <th>Fecha Ingreso</th>
+                <th>Cantidad</th>
+                <th>Fecha Actualizado</th>
+                <th>Semanas</th>
+                <th>Peso (kg)</th>
+                <th>Alimento</th>
+                <th>Alim/Día (kg)</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @FILAS
+        </tbody>
+    </table>
+</body>
+</html>

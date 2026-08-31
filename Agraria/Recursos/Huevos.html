@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Reporte de Producción de Huevos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 40px; /* más espacio entre título y tabla */
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 50px; /* separación con el logo */
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Reporte de Producción de Huevos - @FECHA</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha Ingreso Aves</th>
+                <th>Cant. Aves</th>
+                <th>Fecha Ingreso Huevos</th>
+                <th>Cant. Huevos</th>
+                <th>Fecha Retiro Aves</th>
+                <th>Cant. Retiradas</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @FILAS
+        </tbody>
+    </table>
+</body>
+</html>

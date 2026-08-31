@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\isaso\Desktop\Proyecto Agraria 16-10-25-1325pm\Proyecto Agraria 16-10-25-1325pm\Proyecto Agraria\Agraria\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Formularios\AbmAdministracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\AbmEntornoFormativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\AbmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\CambiarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Industria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Pañol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ProduccionAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ProduccionVegetal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\RegistroActividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\RegistroVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\FrmSeleccionUC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcCarne.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcColmenas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcEngorde.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcGrupoBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcGrupoBoxAnimal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcHuevos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcLeche.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UcVegetales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

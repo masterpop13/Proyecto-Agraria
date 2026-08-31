@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Monta/Nacimientos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 50px;
+        }
+
+        th, td {
+            border: 1px solid #000;
+            padding: 6px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        th {
+            background: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Monta / Nacimientos - @PAGINA - @FECHA</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Madre</th>
+                <th>Padre</th>
+                <th>F. Monta</th>
+                <th>F. Parto</th>
+                <th>Hembras</th>
+                <th>Machos</th>
+                <th>Total</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @FILAS
+        </tbody>
+    </table>
+</body>
+</html>

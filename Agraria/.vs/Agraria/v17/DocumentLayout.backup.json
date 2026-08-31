@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|c:\\users\\isaso\\desktop\\proyecto agraria 16-10-25-1325pm\\proyecto agraria 16-10-25-1325pm\\proyecto agraria\\proyecto agraria\\agraria\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|c:\\users\\isaso\\desktop\\proyecto agraria 16-10-25-1325pm\\proyecto agraria 16-10-25-1325pm\\proyecto agraria\\proyecto agraria\\agraria\\usercontrols\\uccarne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:usercontrols\\uccarne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|c:\\users\\isaso\\desktop\\proyecto agraria 16-10-25-1325pm\\proyecto agraria 16-10-25-1325pm\\proyecto agraria\\proyecto agraria\\agraria\\helpers\\resolutionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:helpers\\resolutionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\usercontrols\\ucengorde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:usercontrols\\ucengorde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\formularios\\abmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:formularios\\abmadministracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\usercontrols\\uccarne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:usercontrols\\uccarne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\usercontrols\\frmseleccionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:usercontrols\\frmseleccionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\usercontrols\\uccolmenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:usercontrols\\uccolmenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|c:\\users\\isaso\\desktop\\proyecto agraria 16-10-25-1325pm\\proyecto agraria 16-10-25-1325pm\\proyecto agraria\\proyecto agraria\\agraria\\usercontrols\\uccolmenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:usercontrols\\uccolmenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\formularios\\produccionvegetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:formularios\\produccionvegetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|c:\\users\\isaso\\desktop\\proyecto agraria 16-10-25-1325pm\\proyecto agraria 16-10-25-1325pm\\proyecto agraria\\proyecto agraria\\agraria\\helpers\\resolutionadapter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5D092F-6A30-43E8-AE3E-C69C99769AAD}|Agraria.csproj|solutionrelative:helpers\\resolutionadapter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResolutionAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Helpers\\ResolutionAdapter.cs",
+              "RelativeDocumentMoniker": "Helpers\\ResolutionAdapter.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Helpers\\ResolutionAdapter.cs",
+              "RelativeToolTip": "Helpers\\ResolutionAdapter.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAACYBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:47:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcCarne.cs",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcCarne.cs",
+              "RelativeDocumentMoniker": "UserControls\\UcCarne.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcCarne.cs",
+              "RelativeToolTip": "UserControls\\UcCarne.cs",
+              "ViewState": "AgIAAEQCAAAAAAAAAADwv14CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:17:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UcCarne.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcCarne.cs",
+              "RelativeDocumentMoniker": "UserControls\\UcCarne.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcCarne.cs [Design]",
+              "RelativeToolTip": "UserControls\\UcCarne.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:15:16.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UcEngorde.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcEngorde.cs",
+              "RelativeDocumentMoniker": "UserControls\\UcEngorde.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcEngorde.cs [Design]",
+              "RelativeToolTip": "UserControls\\UcEngorde.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:14:44.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbmAdministracion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Formularios\\AbmAdministracion.cs",
+              "RelativeDocumentMoniker": "Formularios\\AbmAdministracion.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Formularios\\AbmAdministracion.cs [Design]",
+              "RelativeToolTip": "Formularios\\AbmAdministracion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:03:17.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Inicio.cs [Design]",
+              "RelativeToolTip": "Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:34:53.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSeleccionUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\FrmSeleccionUC.cs",
+              "RelativeDocumentMoniker": "UserControls\\FrmSeleccionUC.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\FrmSeleccionUC.cs [Design]",
+              "RelativeToolTip": "UserControls\\FrmSeleccionUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:17:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UcColmenas.cs",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcColmenas.cs",
+              "RelativeDocumentMoniker": "UserControls\\UcColmenas.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcColmenas.cs",
+              "RelativeToolTip": "UserControls\\UcColmenas.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAQwGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:56:04.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UcColmenas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcColmenas.cs",
+              "RelativeDocumentMoniker": "UserControls\\UcColmenas.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\UserControls\\UcColmenas.cs [Design]",
+              "RelativeToolTip": "UserControls\\UcColmenas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:49:23.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResolutionAdapter2.cs",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Helpers\\ResolutionAdapter2.cs",
+              "RelativeDocumentMoniker": "Helpers\\ResolutionAdapter2.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Helpers\\ResolutionAdapter2.cs",
+              "RelativeToolTip": "Helpers\\ResolutionAdapter2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:19:08.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduccionVegetal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Formularios\\ProduccionVegetal.cs",
+              "RelativeDocumentMoniker": "Formularios\\ProduccionVegetal.cs",
+              "ToolTip": "C:\\Users\\isaso\\Desktop\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria 16-10-25-1325pm\\Proyecto Agraria\\Proyecto Agraria\\Agraria\\Formularios\\ProduccionVegetal.cs [Design]",
+              "RelativeToolTip": "Formularios\\ProduccionVegetal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:00:53.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
